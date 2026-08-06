@@ -60,12 +60,17 @@ A working pipeline that links the survey data to occupational profiles. Models t
 
 ### Project Milestones
 Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone.
+
 | Month | Milestone | Key Activities |
-|-------|-----------|----------------|
-| **September** | Data Exploration & Preprocessing | Conduct EDA on GSS and O*NET datasets, perform cross-dataset key-matching, and establish cleaning protocols for missing values/outliers. |
-| **October** | Feature Engineering & Baseline Modeling | Develop "person-job fit" metrics, perform feature selection, and deploy baseline logistic regression and KNN models. |
-| **November** | Model Optimization & Evaluation | Execute iterative hyperparameter tuning, implement tree-based models and Keras neural networks, and perform rigorous cross-validation. |
-| **December** | Insights, Deliverables & Presentation | Synthesize business recommendations, document model limitations and effect sizes, and package the final technical report. |
+| :--- | :--- | :--- |
+| September | Data Integration, Preprocessing & Feature Engineering | • Ingest and link General Social Survey (GSS) data with O*NET occupational skills and work activity descriptors using SOC crosswalks.<br>• Perform Exploratory Data Analysis (EDA) on job satisfaction distributions and feature coverage.<br>• Clean survey datasets, handle missing values, and construct baseline person-job fit feature vectors.<br>• Establish evaluation metrics (F1-score, MAE, Accuracy) and set up cross-validation splits. |
+| October | Model Development & Optimization | • Train supervised classification and regression models (Random Forest, XGBoost, Ordinal Logistic Regression) to predict job satisfaction from skill and work context fit.<br>• Perform hyperparameter tuning and evaluate performance across occupational categories.<br>• Assess feature contribution profiles and conduct initial error analysis across satisfaction tiers. |
+| November / December | Explainability, Interactive Dashboard & Final Deliverables | • Apply SHAP (SHapley Additive exPlanations) values to isolate key drivers of job satisfaction (e.g., autonomy, skill match, work environment).<br>• Build an interactive Streamlit application enabling users to input worker skill profiles and visualize satisfaction predictions.<br>• Finalize clean, reproducible GitHub repository, technical documentation, and stakeholder presentation deck. |
+
+### Stretch Goals
+* **Personalized Skill Gap & Career Transition Recommender:** Build a recommendation module that identifies actionable skill-building pathways to increase predicted job satisfaction during career transitions.
+* **Demographic Equity & Subgroup Analysis:** Perform subgroup analysis across demographic factors (e.g., age, gender, education level) to evaluate model fairness and consistency in satisfaction drivers.
+* **LLM Career Alignment Coach:** Integrate a generative AI interface that translates quantitative person-job fit scores and SHAP feature importance into personalized career coaching summaries.
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
