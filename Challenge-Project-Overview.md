@@ -51,9 +51,6 @@ Swytch is a career-tech organization dedicated to optimizing professional alignm
 
 ---
 
-
----
-
 ## 🎯 The Challenge
 ### Project Summary
 In this project, you will use national survey data on job satisfaction (the General Social Survey) together with the O*NET database of what occupations involve, and machine learning methods (feature engineering, logistic regression, tree-based models, k-nearest neighbors, and a Keras neural network), to predict whether someone is satisfied at work based on how well their personal work values match what their job actually offers. This tests a core idea behind SWYTCH: that matching people on what they value, not just on job titles, leads to better outcomes.
