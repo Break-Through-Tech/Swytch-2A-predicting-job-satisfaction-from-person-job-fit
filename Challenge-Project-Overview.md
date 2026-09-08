@@ -129,7 +129,7 @@ The following resources will help your team understand the problem space and pot
 I will give unsolicited suggested guidance during these meetings. I am open to any and all questions.
 
  **Other ways to reach out to me with questions:** 
-* jimt@swytch.careers,  jenna.hunte@breakthroughtech.org
+* jimt@swytch.careers,  rajshri.jain@breakthroughtech.org
 * Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.
 
 ---
@@ -147,5 +147,5 @@ I’m excited to work with you!
 
 ## ❓ Questions?
 
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session C). 
+Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session E). 
 
