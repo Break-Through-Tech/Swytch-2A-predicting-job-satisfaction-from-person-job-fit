@@ -1,7 +1,7 @@
 # Predicting Job Satisfaction from Person-Job Fit
 
 **Company / Org:** Swytch  
-**Challenge Advisor:** James Thompson, [jimt@swytch.careers]  
+**Challenge Advisor:** James Thompson, jimt@swytch.careers  
 **AI Studio Coach:** Rajshri Jain, rajshri.jain@breakthroughtech.org    
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
