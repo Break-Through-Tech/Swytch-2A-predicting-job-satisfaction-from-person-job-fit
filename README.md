@@ -14,7 +14,7 @@
 | Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
 | Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Maya     | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-|        | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| Nusrat     | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 
 ---
 
