@@ -10,9 +10,9 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| Amanda Ngo    | @angoway | Data exploration, visualization, overall project coordination            |
-| Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
+| AKM Hossain    | @taylornguyen | Data exploration, visualization, overall project coordination            |
+| Amanda Ngo   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
+| Faith Zhang     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Maya     | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
 | Nusrat     | @chrispark    | Model evaluation, performance analysis, results interpretation           |
 
