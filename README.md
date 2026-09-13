@@ -1,7 +1,4 @@
 # AI Studio Challenge Project Title
-
-> 💡 **Note for the team:** This is just a template. Update the above title with your AI Studio Challenge Project name. Remove all guidance notes and example text in this template and populate this README with your own content. You can work on this README throughout AI Studio, and get feedback from your AI Studio Coach and Challenge Advisor before finalizing it.  
-
 ---
 
 ### 👥 **Team Members**
@@ -10,11 +7,13 @@
 
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
-| AKM Hossain    | @taylornguyen | Data exploration, visualization, overall project coordination            |
-| Amanda Ngo   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
-| Faith Zhang     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
-| Maya     | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
-| Nusrat     | @chrispark    | Model evaluation, performance analysis, results interpretation           |
+| AKM Hossain    | @akmhossain | TBD            |
+| Amanda Ngo   | @angoway     | TBD  |
+| Faith Zhang     | @faithz314  | TBD                 |
+| Maya     | @mayanagi5178-coder       | TBD  |
+| Nusrat     | @Nusratr245    | TBD           |
+| Frederica     | @FredericaAboagye    | TBD           |
+
 
 ---
 
