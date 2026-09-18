@@ -74,6 +74,7 @@ ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
 3254,Dispensing opticians,29-2081.00,"Opticians, Dispensing"
 3258,Ambulance workers,29-2042.00,Emergency Medical Technicians
 3313,Accounting associate professionals,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+3322 ,Commercial sales representatives,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
 3332,Conference and event planners,13-1121.00,"Meeting, Convention, and Event Planners"
 3341,Office supervisors,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers
 3342,Legal secretaries,43-6012.00,Legal Secretaries and Administrative Assistants
@@ -123,6 +124,7 @@ ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
 7319,Handicraft workers not elsewhere classified,27-1012.00,Craft Artists
 7322,Printers ,51-5112.00,Printing Press Operators
 7323,Print finishing and binding workers,51-5113.00,Print Binding and Finishing Workers
+7422 ,Information and communications technology installers and servicers,49-2097.00,Audiovisual Equipment Installers and Repairers
 7512,"Bakers, pastry-cooks and confectionery makers",51-3011.00,Bakers
 7523,Woodworking-machine tool setters and operators,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
 7531,"Tailors, dressmakers, furriers and hatters",51-6052.00,"Tailors, Dressmakers, and Custom Sewers"
@@ -253,7 +255,7 @@ ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
 3314,"Statistical, mathematical and related associate professionals",19-4061.00,Social Science Research Assistants
 3315,Valuers and loss assessors,13-1031.00,"Claims Adjusters, Examiners, and Investigators"
 3321,Insurance representatives,41-3021.00,Insurance Sales Agents
-3322,Commercial sales representatives,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+3322,Commercial sales representatives,41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
 3323,Buyers,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
 3324,Trade brokers,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
 3331,Clearing and forwarding agents,43-5071.00,"Shipping, Receiving, and Inventory Clerks"
@@ -306,6 +308,7 @@ ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
 5163,Undertakers and embalmers,39-4021.00,Funeral Attendants
 5164,Pet groomers and animal care workers,39-1022.00,First-Line Supervisors of Personal Service Workers
 5169,Personal services workers not elsewhere classified,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+5169 ,Personal services workers not elsewhere classified,39-9032.00,Recreation Workers
 5212,Street food salespersons,35-3041.00,"Food Servers, Nonrestaurant"
 5223,Shop sales assistants,41-2031.00,Retail Salespersons
 5230,Cashiers and ticket clerks,41-2011.00,Cashiers
@@ -434,6 +437,6 @@ ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
 9622,Odd job persons,49-9071.00,"Maintenance and Repair Workers, General"
 9623,Meter readers and vending-machine collectors,43-5041.00,"Meter Readers, Utilities"
 9629,Elementary workers not elsewhere classified,39-3091.00,Amusement and Recreation Attendants
-110,Commissioned armed forces officers,55-1016.00,Infantry Officers
-210,Non-commissioned armed forces officers,55-2013.00,First-Line Supervisors of All Other Tactical Operations Specialists
-310,"Armed forces occupations, other ranks",55-3016.00,Infantry
+0110,Commissioned armed forces officers,55-1016.00,Infantry Officers
+0210,Non-commissioned armed forces officers,55-2013.00,First-Line Supervisors of All Other Tactical Operations Specialists
+0310,"Armed forces occupations, other ranks",55-3016.00,Infantry
