@@ -1,0 +1,442 @@
+ISCO-08 Code,ISCO-08 Title EN,O*NET-SOC 2019 Code,O*NET-SOC 2019 Title
+1111,Legislators,11-1031.00,Legislators
+1211,Finance managers,11-3031.00,Financial Managers
+1213,Policy and planning managers,13-1082.00,Project Management Specialists
+1311,Agricultural and forestry production managers,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers"
+1312,Aquaculture and fisheries production managers,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers"
+1321,Manufacturing managers,11-3051.00,Industrial Production Managers
+1322,Mining managers,13-1082.00,Project Management Specialists
+1323,Construction managers,11-9021.00,Construction Managers
+1324,"Supply, distribution and related managers",11-3071.00,"Transportation, Storage, and Distribution Managers"
+1330,Information and communications technology service managers,11-3021.00,Computer and Information Systems Managers
+1341,Child care services managers,11-9031.00,"Education and Childcare Administrators, Preschool and Daycare"
+1342,Health services managers,11-9111.00,Medical and Health Services Managers
+1344,Social welfare managers,11-9151.00,Social and Community Service Managers
+1349,Professional services managers not elsewhere classified,13-1082.00,Project Management Specialists
+1411,Hotel managers,11-9081.00,Lodging Managers
+1412,Restaurant managers,11-9051.00,Food Service Managers
+1420,Retail and wholesale trade managers,11-1021.00,General and Operations Managers
+1439,Services managers not elsewhere classified,13-1082.00,Project Management Specialists
+211,Physical and earth science professionals,19-2099.00,"Physical Scientists, All Other"
+2112,Meteorologists,19-2021.00,Atmospheric and Space Scientists
+2141,Industrial and production engineers,17-2112.00,Industrial Engineers
+2142,Civil engineers,17-2051.00,Civil Engineers
+2143,Environmental engineers,17-2081.00,Environmental Engineers
+2145,Chemical engineers,17-2041.00,Chemical Engineers
+2151,Electrical engineers,17-2071.00,Electrical Engineers
+2153,Telecommunications engineers,17-2072.00,"Electronics Engineers, Except Computer"
+2161,Building architects,17-1011.00,"Architects, Except Landscape and Naval"
+2162,Landscape architects,17-1012.00,Landscape Architects
+2164,Town and traffic planners,19-3051.00,Urban and Regional Planners
+2222,Midwifery professionals,29-1161.00,Nurse Midwives
+2230,Traditional and complementary medicine professionals,29-1299.00,"Healthcare Diagnosing or Treating Practitioners, All Other"
+2240,Paramedical practitioners,29-1071.00,Physician Assistants
+2250,Veterinarians,29-1131.00,Veterinarians
+2262,Pharmacists,29-1051.00,Pharmacists
+2265,Dieticians and nutritionists,29-1031.00,Dietitians and Nutritionists
+2267,Optometrists and ophthalmic opticians,29-1041.00,Optometrists
+2330,Secondary education teachers,25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education"
+2351,Education methods specialists,25-9031.00,Instructional Coordinators
+2354,Other music teachers,25-3021.00,Self-Enrichment Teachers
+2356,Information technology trainers,13-1151.00,Training and Development Specialists
+2422,Policy administration professionals,13-1199.00,"Business Operations Specialists, All Other"
+2424,Training and staff development professionals,13-1151.00,Training and Development Specialists
+2432,Public relations professionals,27-3031.00,Public Relations Specialists
+2513,Web and multimedia developers,15-1254.00,Web Developers
+2514,Applications programmers,15-1251.00,Computer Programmers
+2519,Software and applications developers and analysts not elsewhere classified,13-1082.00,Project Management Specialists
+2521,Database designers and administrators,15-1242.00,Database Administrators
+2522,Systems administrators,15-1244.00,Network and Computer Systems Administrators
+2523,Computer network professionals,15-1241.00,Computer Network Architects
+2611,Lawyers,23-1011.00,Lawyers
+2619,Legal professionals not elsewhere classified,23-1022.00,"Arbitrators, Mediators, and Conciliators"
+2631,Economists,19-3011.00,Economists
+2655,Actors,27-2011.00,Actors
+2659,Creative and performing artists not elsewhere classified,27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other"
+3114,Electronics engineering technicians,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+3116,Chemical engineering technicians,17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other"
+3121,Mining supervisors,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers
+3122,Manufacturing supervisors,51-1011.00,First-Line Supervisors of Production and Operating Workers
+3123,Construction supervisors,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers
+3133,Chemical processing plant controllers,51-8091.00,Chemical Plant and System Operators
+3135,Metal production process controllers,51-4051.00,Metal-Refining Furnace Operators and Tenders
+3139,Process control technicians not elsewhere classified,51-9162.00,Computer Numerically Controlled Tool Programmers
+3142,Agricultural technicians,19-4012.00,Agricultural Technicians
+3143,Forestry technicians,19-4071.00,Forest and Conservation Technicians
+315,Ship and aircraft controllers and technicians,53-2022.00,Airfield Operations Specialists
+3155,Air traffic safety electronics technicians,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+3213,Pharmaceutical technicians and assistants,29-2052.00,Pharmacy Technicians
+3221,Nursing associate professionals,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+3222,Midwifery associate professionals,29-9099.00,"Healthcare Practitioners and Technical Workers, All Other"
+3230,Traditional and complementary medicine associate professionals,29-9099.00,"Healthcare Practitioners and Technical Workers, All Other"
+3252,Medical records and health information technicians,29-2072.00,Medical Records Specialists
+3253,Community health workers,21-1094.00,Community Health Workers
+3254,Dispensing opticians,29-2081.00,"Opticians, Dispensing"
+3258,Ambulance workers,29-2042.00,Emergency Medical Technicians
+3313,Accounting associate professionals,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+3322 ,Commercial sales representatives,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+3332,Conference and event planners,13-1121.00,"Meeting, Convention, and Event Planners"
+3341,Office supervisors,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers
+3342,Legal secretaries,43-6012.00,Legal Secretaries and Administrative Assistants
+3352,Government tax and excise officials,13-2081.00,"Tax Examiners and Collectors, and Revenue Agents"
+3359,Regulatory government associate professionals not elsewhere classified,45-2011.00,Agricultural Inspectors
+3412,Social work associate professionals,21-1093.00,Social and Human Service Assistants
+3413,Religious associate professionals,21-2099.00,"Religious Workers, All Other"
+3421,Athletes and sports players,27-2021.00,Athletes and Sports Competitors
+3431,Photographers,27-4021.00,Photographers
+3511,Information and communications technology operations technicians,15-1299.00,"Computer Occupations, All Other"
+3512,Information and communications technology user support technicians,15-1232.00,Computer User Support Specialists
+3513,Computer network and systems technicians,15-1231.00,Computer Network Support Specialists
+3522,Telecommunications engineering technicians,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+4120,Secretaries (general),43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+4131,Typists and word processing operators,43-9022.00,Word Processors and Typists
+4132,Data entry clerks,43-9021.00,Data Entry Keyers
+4226,Receptionists (general),43-4171.00,Receptionists and Information Clerks
+4227,Survey and market research interviewers,43-4111.00,"Interviewers, Except Eligibility and Loan"
+4313,Payroll clerks,43-3051.00,Payroll and Timekeeping Clerks
+4322,Production clerks,43-5061.00,"Production, Planning, and Expediting Clerks"
+4323,Transport clerks,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance"
+4413,"Coding, proof-reading and related clerks",43-9081.00,Proofreaders and Copy Markers
+4416,Personnel clerks,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping"
+5132,Bartenders,35-3011.00,Bartenders
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers
+5153,Building caretakers,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+5161,"Astrologers, fortune-tellers and related workers",27-2099.00,"Entertainers and Performers, Sports and Related Workers, All Other"
+5165,Driving instructors,25-3021.00,Self-Enrichment Teachers
+5211,Stall and market salespersons,41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+5221,Shopkeepers,11-1021.00,General and Operations Managers
+5222,Shop supervisors,41-1011.00,First-Line Supervisors of Retail Sales Workers
+5241,Fashion and other models,41-9012.00,Models
+5242,Sales demonstrators,41-9011.00,Demonstrators and Product Promoters
+5243,Door to door salespersons,41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+5244,Contact centre salespersons,41-9041.00,Telemarketers
+5312,Teachers' aides,25-9042.00,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education"
+6310,Subsistence crop farmers,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+6320,Subsistence livestock farmers,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+7111,House builders,11-9021.00,Construction Managers
+7115,Carpenters and joiners,47-2031.00,Carpenters
+7121,Roofers,47-2181.00,Roofers
+7125,Glaziers,47-2121.00,Glaziers
+7133,Building structure cleaners,37-2019.00,"Building Cleaning Workers, All Other"
+7215,Riggers and cable splicers,49-9096.00,Riggers
+7313,Jewellery and precious-metal workers,51-9071.00,Jewelers and Precious Stone and Metal Workers
+7318,"Handicraft workers in textile, leather and related materials",51-6041.00,Shoe and Leather Workers and Repairers
+7319,Handicraft workers not elsewhere classified,27-1012.00,Craft Artists
+7322,Printers ,51-5112.00,Printing Press Operators
+7323,Print finishing and binding workers,51-5113.00,Print Binding and Finishing Workers
+7422 ,Information and communications technology installers and servicers,49-2097.00,Audiovisual Equipment Installers and Repairers
+7512,"Bakers, pastry-cooks and confectionery makers",51-3011.00,Bakers
+7523,Woodworking-machine tool setters and operators,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+7531,"Tailors, dressmakers, furriers and hatters",51-6052.00,"Tailors, Dressmakers, and Custom Sewers"
+7534,Upholsterers and related workers,51-6093.00,Upholsterers
+7536,Shoemakers and related workers,51-6041.00,Shoe and Leather Workers and Repairers
+7541,Underwater divers,49-9092.00,Commercial Divers
+7542,Shotfirers and blasters,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+7543,Product graders and testers (excluding foods and beverages),51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+8132,Photographic products machine operators,51-9151.00,Photographic Process Workers and Processing Machine Operators
+8151,"Fibre preparing, spinning and winding machine operators",51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+8152,Weaving and knitting machine operators,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+8153,Sewing machine operators,51-6031.00,Sewing Machine Operators
+8154,"Bleaching, dyeing and fabric cleaning machine operators",51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders
+8155,Fur and leather preparing machine operators,51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other"
+8156,Shoemaking and related machine operators,51-6042.00,Shoe Machine Operators and Tenders
+8157,Laundry machine operators,51-6011.00,Laundry and Dry-Cleaning Workers
+8159,"Textile, fur and leather products machine operators not elsewhere classified",51-6099.00,"Textile, Apparel, and Furnishings Workers, All Other"
+8172,Wood processing plant operators,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood"
+8182,Steam engine and boiler operators,51-8021.00,Stationary Engineers and Boiler Operators
+8183,"Packing, bottling and labelling machine operators",51-9111.00,Packaging and Filling Machine Operators and Tenders
+9111,Domestic cleaners and helpers,37-2012.00,Maids and Housekeeping Cleaners
+9121,Hand launderers and pressers,51-6021.00,"Pressers, Textile, Garment, and Related Materials"
+9122,Vehicle cleaners,53-7061.00,Cleaners of Vehicles and Equipment
+9123,Window cleaners,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+9321,Hand packers,53-7064.00,"Packers and Packagers, Hand"
+9334,Shelf fillers,53-7065.00,Stockers and Order Fillers
+9510,Street and related service workers,39-9099.00,"Personal Care and Service Workers, All Other"
+9520,Street vendors (excluding food),41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+9612,Refuse sorters,53-7081.00,Refuse and Recyclable Material Collectors
+9613,Sweepers and related labourers,37-3019.00,"Grounds Maintenance Workers, All Other"
+9624,Water and firewood collectors,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand"
+2113,Chemists,19-2031.00,Chemists
+1112,Senior government officials,11-1021.00,General and Operations Managers
+1113,Traditional chiefs and heads of villages,11-1011.00,Chief Executives
+1114,Senior officials of special-interest organizations,11-1021.00,General and Operations Managers
+1120,Managing directors and chief executives,11-1021.00,General and Operations Managers
+1212,Human resource managers,11-3121.00,Human Resources Managers
+1219,Business services and administration managers not elsewhere classified,13-1082.00,Project Management Specialists
+1221,Sales and marketing managers,11-2022.00,Sales Managers
+1222,Advertising and public relations managers,11-2032.00,Public Relations Managers
+1223,Research and development managers,11-9041.00,Architectural and Engineering Managers
+1343,Aged care services managers,11-1021.00,General and Operations Managers
+1345,Education managers,11-9032.00,"Education Administrators, Kindergarten through Secondary"
+1346,Financial and insurance services branch managers,11-1021.00,General and Operations Managers
+1431,"Sports, recreation and cultural centre managers",13-1082.00,Project Management Specialists
+2111,Physicists and astronomers,19-2012.00,Physicists
+2114,Geologists and geophysicists,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+2120,"Mathematicians, actuaries and statisticians",15-2031.00,Operations Research Analysts
+2131,"Biologists, botanists, zoologists and related professionals",19-1042.00,"Medical Scientists, Except Epidemiologists"
+2132,"Farming, forestry and fisheries advisers",19-1013.00,Soil and Plant Scientists
+2133,Environmental protection professionals,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+2144,Mechanical engineers,17-2141.00,Mechanical Engineers
+2146,"Mining engineers, metallurgists and related professionals",17-2171.00,Petroleum Engineers
+2149,Engineering professionals not elsewhere classified,17-2199.00,"Engineers, All Other"
+2152,Electronics engineers,17-2072.00,"Electronics Engineers, Except Computer"
+2163,Product and garment designers,27-1021.00,Commercial and Industrial Designers
+2165,Cartographers and surveyors,17-1022.00,Surveyors
+2166,Graphic and multimedia designers,27-1024.00,Graphic Designers
+2211,Generalist medical practitioners ,29-1229.00,"Physicians, All Other"
+2212,Specialist medical practitioners ,29-1229.00,"Physicians, All Other"
+2221,Nursing professionals,29-1141.00,Registered Nurses
+2261,Dentists,29-1021.00,"Dentists, General"
+2263,Environmental and occupational health and hygiene professionals,19-5011.00,Occupational Health and Safety Specialists
+2264,Physiotherapists ,29-1123.00,Physical Therapists
+2266,Audiologists and speech therapists,29-1127.00,Speech-Language Pathologists
+2269,Health professionals not elsewhere classified,29-1122.00,Occupational Therapists
+2310,University and higher education teachers,25-1071.00,"Health Specialties Teachers, Postsecondary"
+2320,Vocational education teachers,25-1194.00,"Career/Technical Education Teachers, Postsecondary"
+2341,Primary school teachers,25-2021.00,"Elementary School Teachers, Except Special Education"
+2342,Early childhood educators,25-2011.00,"Preschool Teachers, Except Special Education"
+2352,Special needs teachers,25-2056.00,"Special Education Teachers, Elementary School"
+2353,Other language teachers,25-3021.00,Self-Enrichment Teachers
+2355,Other arts teachers,25-3021.00,Self-Enrichment Teachers
+2359,Teaching professionals not elsewhere classified,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors"
+2411,Accountants,13-2011.00,Accountants and Auditors
+2412,Financial and investment advisers,13-2051.00,Financial and Investment Analysts
+2413,Financial analysts,13-2051.00,Financial and Investment Analysts
+2421,Management and organization analysts,13-1111.00,Management Analysts
+2423,Personnel and careers professionals,13-1071.00,Human Resources Specialists
+2431,Advertising and marketing professionals,13-1161.00,Market Research Analysts and Marketing Specialists
+2433,Technical and medical sales professionals (excluding ICT),41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+2434,Information and communications technology sales professionals,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+2511,Systems analysts,15-1211.00,Computer Systems Analysts
+2512,Software developers,15-1252.00,Software Developers
+2529,Database and network professionals not elsewhere classified,13-1082.00,Project Management Specialists
+2612,Judges,23-1023.00,"Judges, Magistrate Judges, and Magistrates"
+2621,Archivists and curators,25-4012.00,Curators
+2622,Librarians and related information professionals,25-4022.00,Librarians and Media Collections Specialists
+2632,"Sociologists, anthropologists and related professionals",19-3091.00,Anthropologists and Archeologists
+2633,"Philosophers, historians and political scientists",19-3099.00,"Social Scientists and Related Workers, All Other"
+2634,Psychologists,19-3034.00,School Psychologists
+2635,Social work and counselling professionals,21-1021.00,"Child, Family, and School Social Workers"
+2636,Religious professionals,21-2011.00,Clergy
+2641,Authors and related writers,27-3041.00,Editors
+2642,Journalists,27-3041.00,Editors
+2643,"Translators, interpreters and other linguists",27-3091.00,Interpreters and Translators
+2651,Visual artists,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+2652,"Musicians, singers and composers",27-2042.00,Musicians and Singers
+2653,Dancers and choreographers,27-2031.00,Dancers
+2654,"Film, stage and related directors and producers",27-2012.00,Producers and Directors
+2656,"Announcers on radio, television and other media",27-3011.00,Broadcast Announcers and Radio Disc Jockeys
+3111,Chemical and physical science technicians,19-4099.00,"Life, Physical, and Social Science Technicians, All Other"
+3112,Civil engineering technicians,47-4011.00,Construction and Building Inspectors
+3113,Electrical engineering technicians,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+3115,Mechanical engineering technicians,17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other"
+3117,Mining and metallurgical technicians,17-3029.00,"Engineering Technologists and Technicians, Except Drafters, All Other"
+3118,Draughtspersons,17-3011.00,Architectural and Civil Drafters
+3119,Physical and engineering science technicians not elsewhere classified,19-4099.00,"Life, Physical, and Social Science Technicians, All Other"
+3131,Power production plant operators,51-1011.00,First-Line Supervisors of Production and Operating Workers
+3132,Incinerator and water treatment plant operators,51-1011.00,First-Line Supervisors of Production and Operating Workers
+3134,Petroleum and natural gas refining plant operators,51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+3141,Life science technicians (excluding medical),19-4021.00,Biological Technicians
+3151,Ships' engineers,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+3152,Ships' deck officers and pilots,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+3153,Aircraft pilots and related associate professionals,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+3154,Air traffic controllers,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+3211,Medical imaging and therapeutic equipment technicians,29-2034.00,Radiologic Technologists and Technicians
+3212,Medical and pathology laboratory technicians ,29-2011.00,Medical and Clinical Laboratory Technologists
+3214,Medical and dental prosthetic technicians,51-9081.00,Dental Laboratory Technicians
+3240,Veterinary technicians and assistants,29-2056.00,Veterinary Technologists and Technicians
+3251,Dental assistants and therapists,31-9091.00,Dental Assistants
+3255,Physiotherapy technicians and assistants,31-9011.00,Massage Therapists
+3256,Medical assistants,31-9092.00,Medical Assistants
+3257,Environmental and occupational health inspectors and associates,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+3259,Health associate professionals not elsewhere classified,29-1126.00,Respiratory Therapists
+3311,Securities and finance dealers and brokers,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+3312,Credit and loans officers,13-2072.00,Loan Officers
+3314,"Statistical, mathematical and related associate professionals",19-4061.00,Social Science Research Assistants
+3315,Valuers and loss assessors,13-1031.00,"Claims Adjusters, Examiners, and Investigators"
+3321,Insurance representatives,41-3021.00,Insurance Sales Agents
+3322,Commercial sales representatives,41-3091.00,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+3323,Buyers,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+3324,Trade brokers,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+3331,Clearing and forwarding agents,43-5071.00,"Shipping, Receiving, and Inventory Clerks"
+3333,Employment agents and contractors,13-1071.00,Human Resources Specialists
+3334,Real estate agents and property managers,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers
+3339,Business services agents not elsewhere classified,13-1199.00,"Business Operations Specialists, All Other"
+3343,Administrative and executive secretaries,43-6011.00,Executive Secretaries and Executive Administrative Assistants
+3344,Medical secretaries,43-6013.00,Medical Secretaries and Administrative Assistants
+3351,Customs and border inspectors,33-3051.00,Police and Sheriff's Patrol Officers
+3353,Government social benefits officials,13-1041.00,Compliance Officers
+3354,Government licensing officials,13-1041.00,Compliance Officers
+3355,Police inspectors and detectives,33-3021.00,Detectives and Criminal Investigators
+3411,Legal and related associate professionals,23-2011.00,Paralegals and Legal Assistants
+3422,"Sports coaches, instructors and officials",27-2022.00,Coaches and Scouts
+3423,Fitness and recreation instructors and program leaders,39-9031.00,Exercise Trainers and Group Fitness Instructors
+3432,Interior designers and decorators,27-1026.00,Merchandise Displayers and Window Trimmers
+3433,"Gallery, museum and library technicians",25-4031.00,Library Technicians
+3434,Chefs,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers
+3435,Other artistic and cultural associate professionals,27-3099.00,"Media and Communication Workers, All Other"
+3514,Web technicians,15-1244.00,Network and Computer Systems Administrators
+3521,Broadcasting and audio-visual technicians,27-4011.00,Audio and Video Technicians
+4110,General office clerks,43-9061.00,"Office Clerks, General"
+4211,Bank tellers and related clerks,43-3071.00,Tellers
+4212,"Bookmakers, croupiers and related gaming workers",39-3011.00,Gambling Dealers
+4213,Pawnbrokers and money-lenders,41-9099.00,"Sales and Related Workers, All Other"
+4214,Debt-collectors and related workers,43-3011.00,Bill and Account Collectors
+4221,Travel consultants and clerks,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers
+4222,Contact centre information clerks,43-4051.00,Customer Service Representatives
+4223,Telephone switchboard operators,43-2011.00,"Switchboard Operators, Including Answering Service"
+4224,Hotel receptionists,43-4081.00,"Hotel, Motel, and Resort Desk Clerks"
+4225,Enquiry clerks,43-4171.00,Receptionists and Information Clerks
+4229,Client information workers not elsewhere classified,43-4199.00,"Information and Record Clerks, All Other"
+4311,Accounting and bookkeeping clerks,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+4312,"Statistical, finance and insurance clerks",43-9041.00,Insurance Claims and Policy Processing Clerks
+4321,Stock clerks,53-7065.00,Stockers and Order Fillers
+4411,Library clerks,43-4121.00,"Library Assistants, Clerical"
+4412,Mail carriers and sorting clerks,43-5052.00,Postal Service Mail Carriers
+4414,Scribes and related workers,31-1122.00,Personal Care Aides
+4415,Filing and copying clerks,43-4071.00,File Clerks
+4419,Clerical support workers not elsewhere classified,43-9199.00,"Office and Administrative Support Workers, All Other"
+5111,Travel attendants and travel stewards,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+5112,Transport conductors,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+5113,Travel guides,39-1022.00,First-Line Supervisors of Personal Service Workers
+5120,Cooks,35-2014.00,"Cooks, Restaurant"
+5131,Waiters,35-3031.00,Waiters and Waitresses
+5141,Hairdressers,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists"
+5142,Beauticians and related workers,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists"
+5152,Domestic housekeepers,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers
+5162,Companions and valets,31-1122.00,Personal Care Aides
+5163,Undertakers and embalmers,39-4021.00,Funeral Attendants
+5164,Pet groomers and animal care workers,39-1022.00,First-Line Supervisors of Personal Service Workers
+5169,Personal services workers not elsewhere classified,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+5169 ,Personal services workers not elsewhere classified,39-9032.00,Recreation Workers
+5212,Street food salespersons,35-3041.00,"Food Servers, Nonrestaurant"
+5223,Shop sales assistants,41-2031.00,Retail Salespersons
+5230,Cashiers and ticket clerks,41-2011.00,Cashiers
+5245,Service station attendants,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+5246,Food service counter attendants,35-3023.00,Fast Food and Counter Workers
+5249,Sales workers not elsewhere classified,41-2021.00,Counter and Rental Clerks
+5311,Child care workers,39-9011.00,Childcare Workers
+5321,Health care assistants,31-1131.00,Nursing Assistants
+5322,Home-based personal care workers,31-1122.00,Personal Care Aides
+5329,Personal care workers in health services not elsewhere classified,31-9091.00,Dental Assistants
+5411,Fire-fighters,33-2011.00,Firefighters
+5412,Police officers,33-3051.00,Police and Sheriff's Patrol Officers
+5413,Prison guards,33-3012.00,Correctional Officers and Jailers
+5414,Security guards,33-9032.00,Security Guards
+5419,Protective services workers not elsewhere classified,33-9099.00,"Protective Service Workers, All Other"
+6111,Field crop and vegetable growers,45-2091.00,Agricultural Equipment Operators
+6112,Tree and shrub crop growers,45-2091.00,Agricultural Equipment Operators
+6113,"Gardeners, horticultural and nursery growers",37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+6114,Mixed crop growers,45-2091.00,Agricultural Equipment Operators
+6121,Livestock and dairy producers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6122,Poultry producers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6123,Apiarists and sericulturists,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6129,Animal producers not elsewhere classified,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6130,Mixed crop and animal producers,45-2091.00,Agricultural Equipment Operators
+6210,Forestry and related workers,45-4022.00,Logging Equipment Operators
+6221,Aquaculture workers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6222,Inland and coastal waters fishery workers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6223,Deep-sea fishery workers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6224,Hunters and trappers,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+6330,Subsistence mixed crop and livestock farmers,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+6340,"Subsistence fishers, hunters, trappers and gatherers",45-3031.00,Fishing and Hunting Workers
+7112,Bricklayers and related workers,47-2021.00,Brickmasons and Blockmasons
+7113,"Stonemasons, stone cutters, splitters and carvers",47-2022.00,Stonemasons
+7114,"Concrete placers, concrete finishers and related workers",47-2051.00,Cement Masons and Concrete Finishers
+7119,Building frame and related trades workers not elsewhere classified,47-4041.00,Hazardous Materials Removal Workers
+7122,Floor layers and tile setters,47-2044.00,Tile and Stone Setters
+7123,Plasterers,47-2081.00,Drywall and Ceiling Tile Installers
+7124,Insulation workers,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall"
+7126,Plumbers and pipe fitters,47-2152.00,"Plumbers, Pipefitters, and Steamfitters"
+7127,Air conditioning and refrigeration mechanics,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7131,Painters and related workers,47-2141.00,"Painters, Construction and Maintenance"
+7132,Spray painters and varnishers,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+7211,Metal moulders and coremakers,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+7212,Welders and flamecutters,51-4121.00,"Welders, Cutters, Solderers, and Brazers"
+7213,Sheet-metal workers,47-2211.00,Sheet Metal Workers
+7214,Structural-metal preparers and erectors,51-2041.00,Structural Metal Fabricators and Fitters
+7221,"Blacksmiths, hammersmiths and forging press workers",51-4199.00,"Metal Workers and Plastic Workers, All Other"
+7222,Toolmakers and related workers,51-4111.00,Tool and Die Makers
+7223,Metal working machine tool setters and operators,51-4041.00,Machinists
+7224,"Metal polishers, wheel grinders and tool sharpeners",51-9022.00,"Grinding and Polishing Workers, Hand"
+7231,Motor vehicle mechanics and repairers,49-3023.00,Automotive Service Technicians and Mechanics
+7232,Aircraft engine mechanics and repairers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7233,Agricultural and industrial machinery mechanics and repairers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7234,Bicycle and related repairers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7311,Precision-instrument makers and repairers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7312,Musical instrument makers and tuners,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7314,Potters and related workers,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic"
+7315,"Glass makers, cutters, grinders and finishers",51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic"
+7316,"Sign writers, decorative painters, engravers and etchers",51-9123.00,"Painting, Coating, and Decorating Workers"
+7317,"Handicraft workers in wood, basketry and related materials",51-7099.00,"Woodworkers, All Other"
+7321,Pre-press technicians,51-5111.00,Prepress Technicians and Workers
+7411,Building and related electricians,47-2111.00,Electricians
+7412,Electrical mechanics and fitters,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7413,Electrical line installers and repairers ,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7421,Electronics mechanics and servicers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7422,Information and communications technology installers and servicers,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+7511,"Butchers, fishmongers and related food preparers",51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers"
+7513,Dairy-products makers,51-3092.00,Food Batchmakers
+7514,"Fruit, vegetable and related preservers",51-3099.00,"Food Processing Workers, All Other"
+7515,Food and beverage tasters and graders,45-2041.00,"Graders and Sorters, Agricultural Products"
+7516,Tobacco preparers and tobacco products makers,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+7521,Wood treaters,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+7522,Cabinet-makers and related workers,51-7011.00,Cabinetmakers and Bench Carpenters
+7532,Garment and related pattern-makers and cutters,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders"
+7533,"Sewing, embroidery and related workers",51-6041.00,Shoe and Leather Workers and Repairers
+7535,"Pelt dressers, tanners and fellmongers",45-2041.00,"Graders and Sorters, Agricultural Products"
+7544,Fumigators and other pest and weed controllers,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+7549,Craft and related workers not elsewhere classified,27-1023.00,Floral Designers
+8111,Miners and quarriers,47-5022.00,"Excavating and Loading Machine and Dragline Operators, Surface Mining"
+8112,Mineral and stone processing plant operators,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+8113,Well drillers and borers and related workers,47-5071.00,"Roustabouts, Oil and Gas"
+8114,"Cement, stone and other mineral products machine operators",51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders"
+8121,Metal processing plant operators,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+8122,"Metal finishing, plating and coating machine operators",51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+8131,Chemical products plant and machine operators,51-9011.00,Chemical Equipment Operators and Tenders
+8141,Rubber products machine operators,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+8142,Plastic products machine operators,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+8143,Paper products machine operators,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders"
+8160,Food and related products machine operators,51-3092.00,Food Batchmakers
+8171,Pulp and papermaking plant operators,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders"
+8181,Glass and ceramics plant operators,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders"
+8189,Stationary plant and machine operators not elsewhere classified,53-7011.00,Conveyor Operators and Tenders
+8211,Mechanical machinery assemblers,51-2031.00,Engine and Other Machine Assemblers
+8212,Electrical and electronic equipment assemblers,51-2022.00,Electrical and Electronic Equipment Assemblers
+8219,Assemblers not elsewhere classified,51-2092.00,Team Assemblers
+8311,Locomotive engine drivers,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+8312,"Railway brake, signal and switch operators",53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+8321,Motorcycle drivers,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+8322,"Car, taxi and van drivers",53-3033.00,Light Truck Drivers
+8331,Bus and tram drivers,53-3051.00,"Bus Drivers, School"
+8332,Heavy truck and lorry drivers,53-3032.00,Heavy and Tractor-Trailer Truck Drivers
+8341,Mobile farm and forestry plant operators,45-2091.00,Agricultural Equipment Operators
+8342,Earthmoving and related plant operators,47-2073.00,Operating Engineers and Other Construction Equipment Operators
+8343,"Crane, hoist and related plant operators",39-3091.00,Amusement and Recreation Attendants
+8344,Lifting truck operators,53-7051.00,Industrial Truck and Tractor Operators
+8350,Ships' deck crews and related workers,53-5011.00,Sailors and Marine Oilers
+9112,"Cleaners and helpers in offices, hotels and other establishments",37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+9129,Other cleaning workers,47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners
+9211,Crop farm labourers,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+9212,Livestock farm labourers,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+9213,Mixed crop and livestock farm labourers,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+9214,Garden and horticultural labourers,37-3011.00,Landscaping and Groundskeeping Workers
+9215,Forestry labourers,45-4011.00,Forest and Conservation Workers
+9216,Fishery and aquaculture labourers,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+9311,Mining and quarrying labourers,47-5081.00,Helpers--Extraction Workers
+9312,Civil engineering labourers,47-4051.00,Highway Maintenance Workers
+9313,Building construction labourers,47-2061.00,Construction Laborers
+9329,Manufacturing labourers not elsewhere classified,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand"
+9331,Hand and pedal vehicle drivers,43-5021.00,Couriers and Messengers
+9332,Drivers of animal-drawn vehicles and machinery,53-6099.00,"Transportation Workers, All Other"
+9333,Freight handlers,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand"
+9411,Fast food preparers,35-2011.00,"Cooks, Fast Food"
+9412,Kitchen helpers,35-2021.00,Food Preparation Workers
+9611,Garbage and recycling collectors,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+9621,"Messengers, package deliverers and luggage porters",43-5021.00,Couriers and Messengers
+9622,Odd job persons,49-9071.00,"Maintenance and Repair Workers, General"
+9623,Meter readers and vending-machine collectors,43-5041.00,"Meter Readers, Utilities"
+9629,Elementary workers not elsewhere classified,39-3091.00,Amusement and Recreation Attendants
+0110,Commissioned armed forces officers,55-1016.00,Infantry Officers
+0210,Non-commissioned armed forces officers,55-2013.00,First-Line Supervisors of All Other Tactical Operations Specialists
+0310,"Armed forces occupations, other ranks",55-3016.00,Infantry
