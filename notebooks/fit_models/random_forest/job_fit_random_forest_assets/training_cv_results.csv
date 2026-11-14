@@ -1,0 +1,15 @@
+Task,Version,CV metric,CV score,class_weight,max_depth,min_samples_leaf
+Binary,Baseline,average_precision,0.25,,4.0,25
+Binary,ISSP fit,average_precision,0.315,balanced,4.0,5
+Binary,ISSP fit + O*NET,average_precision,0.313,balanced,4.0,25
+Binary,Job conditions,average_precision,0.428,balanced,12.0,25
+Binary,Conditions + priorities,average_precision,0.431,balanced,8.0,5
+Binary,Components + fit,average_precision,0.432,balanced,12.0,5
+Binary,All features,average_precision,0.432,balanced,12.0,5
+Four-class,Baseline,f1_macro,0.281,balanced,4.0,5
+Four-class,ISSP fit,f1_macro,0.392,balanced,8.0,5
+Four-class,ISSP fit + O*NET,f1_macro,0.393,balanced,,5
+Four-class,Job conditions,f1_macro,0.463,balanced,8.0,5
+Four-class,Conditions + priorities,f1_macro,0.464,balanced,8.0,5
+Four-class,Components + fit,f1_macro,0.468,balanced,,5
+Four-class,All features,f1_macro,0.466,balanced,,5
