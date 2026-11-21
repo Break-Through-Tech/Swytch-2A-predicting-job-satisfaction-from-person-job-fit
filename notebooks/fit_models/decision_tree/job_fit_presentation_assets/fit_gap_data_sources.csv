@@ -1,0 +1,9 @@
+Fit gap,Dataset,Preference column (original variable),Job-provision column (original variable),US valid pairs (analysis sample),"Graph n (training, values feature)",Met n,Unmet n
+Job security,ISSP ZA8797,imp_job_security (v11),actual_job_secure (v25),3583,2543,1869,674
+High income,ISSP ZA8797,imp_income (v12),actual_income_high (v26),3582,2154,595,1559
+Advancement,ISSP ZA8797,imp_advancement (v13),actual_advancement_high (v27),3578,2401,912,1489
+Interesting work,ISSP ZA8797,imp_interesting (v14),actual_job_interesting (v28),3590,2521,2014,507
+Independence,ISSP ZA8797,imp_independence (v15),actual_work_independently (v29),3586,2095,1756,339
+Helping others,ISSP ZA8797,imp_help_others (v16),actual_help_others (v30),3587,2201,1941,260
+Useful to society,ISSP ZA8797,imp_useful_society (v17),actual_useful_society (v31),3575,2225,1792,433
+Control over work hours*,ISSP ZA8797,imp_decide_hours (v18),working_hours_conditions (v44),2732,1066,606,460

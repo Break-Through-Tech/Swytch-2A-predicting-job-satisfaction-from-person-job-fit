@@ -1,0 +1,7 @@
+Task,Comparison,Metric,Change,95% lower,95% upper,Accuracy lower (pp),Accuracy upper (pp)
+Binary,ISSP fit + O*NET minus Baseline,Average precision,0.04308560639565445,0.003549812085436086,0.08406598380361512,-1.6411378555798721,6.017505470459522
+Binary,ISSP fit + O*NET minus ISSP fit,Average precision,0.007351995333040512,-0.003997535804729243,0.025172505374603204,0.0,0.0
+Binary,Components + fit minus Conditions + priorities,Average precision,0.0008553768982562104,-0.00680121879113964,0.00875457601323116,-3.063457330415753,0.4376367614879695
+Four-class,ISSP fit + O*NET minus Baseline,Macro F1,0.13206868289829926,0.09468126363687526,0.16670463434444358,6.61652078774617,14.223194748358864
+Four-class,ISSP fit + O*NET minus ISSP fit,Macro F1,0.0,0.0,0.0,0.0,0.0
+Four-class,Components + fit minus Conditions + priorities,Macro F1,0.0,0.0,0.0,0.0,0.0

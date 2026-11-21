@@ -1,0 +1,7 @@
+Sample,Respondents (n)
+All countries in the local ISSP file,122003
+US respondents before satisfaction filtering,5676
+US respondents excluded: missing or invalid satisfaction,2020
+US analysis sample with valid satisfaction (scores 1–7),3656
+Training sample used for the graph below,2742
+"Test sample, excluded from the graph below",914
